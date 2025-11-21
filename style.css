@@ -1,3 +1,20 @@
 .franchise{
     background-color: black;
 }
+.franchise-up{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.franchise-content{
+    color:white;
+    text-align: center;
+}
+.middle-images{
+   background-color: black;
+    display: flex;
+}
+.middle-1{
+color: white;
+padding: 0px 10px;
+}
